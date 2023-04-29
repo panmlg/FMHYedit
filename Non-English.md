@@ -337,6 +337,7 @@
 * [War-Forum](http://war-forum.net/) - Video / Audio / Software / Games / Books / Magazines / Comics / NSFW
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Software / Games / Books / Android / NSFW
 * [GigaWarez](https://giga-warez.forumczech.com/) - Video / Audio / Games / Software
+* [Přehraj-to](https://prehrajto.cz/) - Video / TV
 
 ## ▷ Torrenting
 
@@ -346,6 +347,7 @@
 ## ▷ Streaming
 
 * [FilmPlanet](https://www1.filmplanet.to/) - Movies / TV
+* [Přehraj-to](https://prehrajto.cz/) - Video
 
 ***
 
